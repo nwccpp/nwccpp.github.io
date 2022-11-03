@@ -15,7 +15,7 @@ The current repositories of our projects are as follows:
 - [How foreign propaganda claims penetrates American domestic partisan news: The case of Ukraine](https://github.com/nwccpp/bertopicclassifier)
 - [Of two minds? How consistency and belonging bias the need for evidence about COVID-19](https://github.com/nwccpp/NFE_NFB)
 
-We also have insturctional repositories for the following:
+We also have instructional repositories for the following:
 - [Install R Studio](https://github.com/nwccpp/install_R)
 
 If you have any questions, please [contact us](mailto:ccpp@northwestern.edu)
