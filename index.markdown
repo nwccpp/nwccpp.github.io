@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to NW CCPP's GitHub Page.
+Welcome to Northwestern University Center for Communication and Public Policy's (CCPP) GitHub Page.
 
 You can find more information on our [coordinating team](https://polcomm.northwestern.edu/ccpp-people__trashed/coordinating-team/) and [doctoral student researchers](https://polcomm.northwestern.edu/ccpp-people__trashed/doctoral-student-researchers/) at our [website](https://polcomm.northwestern.edu/).
 
@@ -15,7 +15,14 @@ The current repositories of our projects are as follows:
 - [How foreign propaganda claims penetrates American domestic partisan news: The case of Ukraine](https://github.com/nwccpp/bertopicclassifier)
 - [Of two minds? How consistency and belonging bias the need for evidence about COVID-19](https://github.com/nwccpp/NFE_NFB)
 
+
+Our current publications are below:
+
+
+
 We also have instructional repositories for the following:
 - [Install R Studio](https://github.com/nwccpp/install_R)
+
+
 
 If you have any questions, please [contact us](mailto:ccpp@northwestern.edu)
