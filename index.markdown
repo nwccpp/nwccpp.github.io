@@ -19,9 +19,9 @@ The current repositories of our projects are as follows:
 
 Our current publications are below:
 
-- Lokmanoglu, A. D., Nisbet, E. C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. (2023). Social Media Sentiment about COVID-19 Vaccination Predicts Vaccine Acceptance among Peruvian Social Media Users the Next Day. Vaccines, 11(4), Article 4. https://doi.org/10.3390/vaccines11040817
+- Lokmanoglu, A. D., Nisbet, E. C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. (2023). Social Media Sentiment about COVID-19 Vaccination Predicts Vaccine Acceptance among Peruvian Social Media Users the Next Day. Vaccines, 11(4), Article 4. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
 
-- Lokmanoglu, A. D., Allaham, M., Abhari, R., Mortenson, C., & Villa Turek, E. (2023). A Picture is Worth a Thousand (S)words: Classification and Diffusion of Memes on a Partisan Media Platform [Year 3 Award]. Global Network on Extremism & Terrorism (GNET).
+- Lokmanoglu, A. D., Allaham, M., Abhari, R., Mortenson, C., & Villa Turek, E. (2023). A Picture is Worth a Thousand (S)words: Classification and Diffusion of Memes on a Partisan Media Platform [Year 3 Award]. Global Network on Extremism & Terrorism (GNET).  [DOI](https://gnet-research.org/wp-content/uploads/2023/03/GNET-33-Meme-Classification-on-Partisan-Platform_web.pdf) [Code](https://github.com/nwccpp/meme-project)
 
 
 We also have instructional repositories for the following:
